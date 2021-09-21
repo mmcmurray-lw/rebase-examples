@@ -4,6 +4,8 @@ def part1():
 def part2():
     print("part2!!!!!")
 
+def part3():
+    pass
 
 def main():
     print("Hello Everyone!")
