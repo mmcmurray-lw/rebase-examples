@@ -6,7 +6,7 @@ def part2():
 
 
 def main():
-    print("Hello World!")
+    print("Hello Everyone!")
     part1()
     part2()
 
