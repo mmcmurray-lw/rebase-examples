@@ -1,17 +1,18 @@
-def part1():
+def partA():
     print("part1!")
 
-def part2():
+def partB():
     print("part2!")
 
-def part3():
-    print("part3!")
+def partC():
+    print("partC!")
 
 
 def main():
     print("Hello World!")
-    part1()
-    part2()
+    partA()
+    partB()
+    partC()
 
 if __name__ == "__main__":
     main()
